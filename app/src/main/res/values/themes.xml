@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.SSFitnessDnevnikTreninga" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="android:windowBackground">@color/white</item>
+        <item name="android:statusBarColor">@color/primary_dark</item>
+        <item name="cardViewStyle">@style/LightCardView</item>
+        <item name="android:navigationBarColor">@android:color/white</item>
+    </style>
+
+    <style name="LightCardView" parent="Widget.MaterialComponents.CardView">
+        <item name="cardBackgroundColor">@color/white</item>
+    </style>
+
+    <style name="Calendar.Button" parent="Widget.MaterialComponents.Button.TextButton.Dialog">
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="PopupMenuItemText" parent="TextAppearance.MaterialComponents.Body1">
+        <item name="android:textColor">@color/black</item>
+    </style>
+</resources>

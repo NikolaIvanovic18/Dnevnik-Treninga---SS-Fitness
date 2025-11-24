@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:title="@string/home"
+        android:icon="@drawable/ic_home" />
+    <item
+        android:id="@+id/nav_workouts"
+        android:title="@string/workouts"
+        android:icon="@drawable/ic_fitness_center" />
+    <item
+        android:id="@+id/nav_workout_history"
+        android:title="@string/workout_history"
+        android:icon="@drawable/ic_history" />
+    <item
+        android:id="@+id/nav_contact"
+        android:title="@string/contact"
+        android:icon="@drawable/ic_contact" />
+    <item
+        android:id="@+id/nav_settings"
+        android:title="@string/settings"
+        android:icon="@drawable/ic_settings" />
+</menu>

@@ -1,0 +1,39 @@
+
+¬
+;
+android*http://schemas.android.com/apk/res/androidBmenu*Å
+¼item"c
+*http://schemas.android.com/apk/res/androidtitle@string/home"(áƒ„2
+Ê€Àøstring/home0"l
+*http://schemas.android.com/apk/res/androidicon@drawable/ic_home"(‚€„2
+˜œødrawable/ic_home0"a
+*http://schemas.android.com/apk/res/androidid@+id/nav_home"(Ğ„2
+ä‚ øid/nav_home0,*ê
+áitem"k
+*http://schemas.android.com/apk/res/androidtitle@string/workouts"	(áƒ„2
+éÀøstring/workouts0"€
+*http://schemas.android.com/apk/res/androidicon@drawable/ic_fitness_center"	(‚€„2&
+$–œødrawable/ic_fitness_center0"i
+*http://schemas.android.com/apk/res/androidid@+id/nav_workouts"	(Ğ„2
+è‚ øid/nav_workouts0	6*÷
+îitem"y
+*http://schemas.android.com/apk/res/androidtitle@string/workout_history"(áƒ„2"
+ æÀøstring/workout_history0"r
+*http://schemas.android.com/apk/res/androidicon@drawable/ic_history"(‚€„2
+—œødrawable/ic_history0"w
+*http://schemas.android.com/apk/res/androidid@+id/nav_workout_history"(Ğ„2"
+ ç‚ øid/nav_workout_history0/*×
+Îitem"i
+*http://schemas.android.com/apk/res/androidtitle@string/contact"(áƒ„2
+µ€Àøstring/contact0"r
+*http://schemas.android.com/apk/res/androidicon@drawable/ic_contact"(‚€„2
+”œødrawable/ic_contact0"g
+*http://schemas.android.com/apk/res/androidid@+id/nav_contact"(Ğ„2
+ã‚ øid/nav_contact0/*İ
+Ôitem"k
+*http://schemas.android.com/apk/res/androidtitle@string/settings"(áƒ„2
+ÛÀøstring/settings0"t
+*http://schemas.android.com/apk/res/androidicon@drawable/ic_settings"(‚€„2 
+§œødrawable/ic_settings0"i
+*http://schemas.android.com/apk/res/androidid@+id/nav_settings"(Ğ„2
+å‚ øid/nav_settings00B

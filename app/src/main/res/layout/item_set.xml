@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="0dp"
+    android:background="@color/white">
+
+    <TextView
+        android:id="@+id/setNumber"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:text="@string/set_number"
+        android:textColor="@color/black" />
+
+    <EditText
+        android:id="@+id/repsEdit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:hint="@string/reps"
+        android:inputType="number"
+        android:minWidth="32dp"
+        android:maxWidth="48dp"
+        android:textColor="@color/black"
+        android:backgroundTint="@color/black"
+        android:textColorHint="@color/gray" />
+
+    <EditText
+        android:id="@+id/weightEdit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="0dp"
+        android:hint="@string/weight"
+        android:inputType="numberDecimal"
+        android:maxWidth="96dp"
+        android:minWidth="72dp"
+        android:textColor="@color/black"
+        android:backgroundTint="@color/black"
+        android:textColorHint="@color/gray" />
+
+    <Spinner
+        android:id="@+id/unitSpinner"
+        style="@style/CustomSpinner"
+        android:layout_width="64dp"
+        android:layout_height="wrap_content"
+        android:theme="@style/SpinnerArrowBlack"
+        android:layout_gravity="center_vertical"
+        android:layout_marginStart="0dp"
+        android:paddingStart="0dp"
+        android:paddingEnd="8dp" />
+
+    <ImageButton
+        android:id="@+id/deleteSetButton"
+        android:layout_width="wrap_content"
+        android:layout_height="32dp"
+        android:layout_gravity="center_vertical"
+        android:layout_marginStart="32dp"
+        android:background="?attr/selectableItemBackgroundBorderless"
+        android:contentDescription="@string/delete_set"
+        android:src="@drawable/ic_delete"
+        app:tint="@android:color/holo_red_dark" />
+</LinearLayout>

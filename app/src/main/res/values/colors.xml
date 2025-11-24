@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF23272F</color> <!-- Soft black -->
+    <color name="white">#FFF9FAFB</color> <!-- Softer off-white -->
+    <color name="red">#FFFF0000</color>
+    <color name="green">#FF00FF00</color>
+    <color name="blue">#FF0000FF</color>
+    <color name="yellow">#FFFFFF00</color>
+    <color name="cyan">#FF00FFFF</color>
+    <color name="magenta">#FFFF00FF</color>
+    <color name="gray">#FF808080</color>
+    <color name="light_gray">#FFD3D3D3</color>
+    <color name="header">#FFE000</color>
+    <color name="purple_700">#FF6200EE</color>
+    <color name="status_bar_black_translucent">#66000000</color>
+    <color name="highlight">#FFF9C74F</color> <!-- A yellow highlight, adjust as needed -->
+    <color name="primary">#FFE000</color> <!-- Primary color for buttons and highlights -->
+    <color name="primary_dark">#FFA000</color> <!-- Darker shade of primary color -->
+    <color name="nav_bar_dark">#FF181B20</color>
+    <color name="nav_black">#FF000000</color> <!-- Black for icons in navigation drawer -->
+    <color name="your_app_main_dark_background">#FF23272F</color>
+</resources>

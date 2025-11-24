@@ -1,0 +1,15 @@
+<resources>
+    <style name="AppPopupMenu" parent="Widget.MaterialComponents.PopupMenu">
+        <item name="android:popupBackground">@color/white</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="CustomSpinner" parent="Widget.AppCompat.Spinner">
+        <item name="android:background">@color/white</item>
+        <item name="android:popupBackground">@color/white</item>
+    </style>
+
+    <style name="SpinnerArrowBlack" parent="ThemeOverlay.AppCompat.Light">
+        <item name="colorControlNormal">@color/white</item>
+    </style>
+</resources>
